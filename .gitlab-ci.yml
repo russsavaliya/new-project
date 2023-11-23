@@ -1,0 +1,32 @@
+stages:
+    - pull
+    - deploy_frontend
+    - deploy_api
+
+before_script:
+  - echo "Before script"
+  - cd $webroot
+pulling:
+  stage: pull
+  script:
+    - sudo git stash
+    - sudo git pull ${CI_REPOSITORY_URL}
+  when: manual
+
+deploying_frontend:
+  stage: deploy_frontend
+  needs: ["pulling"]
+  script:
+    - cd $webroot/frontend
+    - sudo npm install
+    - sudo npm run build
+
+deploying_api:
+  stage: deploy_api
+  needs: ["pulling"]
+  script:
+    - sudo npm install
+    - sudo cp .env_dev .env
+    - sudo chown -R www-data:www-data .
+    - sudo chmod -R 664 public
+    - pm2 restart 2 --update-env

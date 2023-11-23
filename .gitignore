@@ -1,0 +1,13 @@
+node_modules/
+frontend/node_modules/
+frontend/package-lock.json
+*.zip
+.DS_Store
+.idea
+notes.md
+.env
+.variables.env
+package-lock.json
+/.idea
+/public/uploads/admin
+

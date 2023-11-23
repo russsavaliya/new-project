@@ -1,0 +1,86 @@
+.dialog-button {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.dialog-header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.article-publish {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.delete-original-icon {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.t_cp {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon-image {
+  height: 50px;
+  width: 50px;
+}
+
+.media-error {
+  color: red;
+  text-align: center;
+}
+
+.edit-article-file {
+  max-height: 370px;
+  height: 100%;
+  width: 100%;
+}
+
+.edit-article-file .article-single-image {
+  max-height: 250px;
+  height: 250px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.single-image {
+  max-height: 300px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.upload-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.media-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 15px; */
+}
+
+.media-credit {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}

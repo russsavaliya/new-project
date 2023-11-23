@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "double-willow-332106",
+  "private_key_id": "618518fd794b57d5ac4e767c2b40a3db2e27190e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLYVCNOHxtB9B8\nm4Wc7uvF9cj2M29w76A90O0FubWnitOi6dEOcaHl0/edob+SFHe15fJOnh0F+jHp\n+BNsGoyDYKra0PeN5tVWCDtGnMcj2ylgQfVYuPuxkIZSYcWGrR2cyPaiY7Ni0oda\ngdiX+gWvoB0k8kkPC0myJL6S+mpJSfGvWAEdphZ51Ghcma32YYBUqzRDtzTWuSwO\ns3ADQxaGDFbmZArcZZSwxjFCUiC1KDMP/OBEVEtKyq3pnBHPzpWvnGWiGZr/Ew7F\ncmJFbR4AqAyAB77scMdJivW5WMyfvG9cza3vEC15KnHWaR9rD+VHn59hDeBJMFAH\nPSvpZp6zAgMBAAECggEAOQB/E4pW5LZN7zAhiEl0Fl1LJ1loyazOgYl47h8BqjgO\nDrIGRBx35Ej4mziD4ufI/5S/sKRcZU3p7PB+bPc8oRw/M8dDfv65H/q010+V59Wh\nSdMf1n2svfVH4dhHkqkpE65io44X1qIYJg01eg4QFj/qu2n1NBhfNuJtKCoOntLq\n5YWO+EXjG19xaDcGd1VJVecO2a4DclbYoUzBLKVN7LR7PDNiNsThwWTwUhhzHnBh\noMP2mbpSwe8Ov7xDinhp3JCMfp/JRVaW6hBm0X8t0HqTSS1aAnt9XvX/5yb/DKM6\nQ1VBjqqI3WhQ0O8MOFiP3L+CttpaWUteX57NyNzu6QKBgQC/rg4mk2MvMIMB6GZe\njmmYPL8NBg4ozGdBLYf/eJ2XE7EjuN/wjDo1sg3a3AYkUhEgL4uLwQj5vekNW7rQ\nLbTlGeU/g5v1eh0pqz760VwF/Yj72M84Sst5VXIg3DAsydZDuTZNA3SGUHgx5CWs\nyoyQX+9aLtlqYE5TF4K77VOBuwKBgQC6JojOgwNjXY/DWBKGAMN/K4q9z5FqcUVr\ne3fRNPsLN1z9ye665gUEdIPWIlw7DfV+zjj+JwxLS+fB4/E0WY2zuji2Xd7xPv0a\nkb9KHNRePeMW8Ls/pvTOehbdfzLBpCmffw1t9WvQkvya2otDS9tSS2flM5u7jBM0\nW7WXTlQraQKBgQCP6ykWz7099ke3S/5o6rbgJmQwbCZ/fZHdf0lIiRCSGaf8MVh7\nLV6baHg8ps05wiC3sNsu8J5DndL5Q7GNk3PqPLpDKRcVhj2VRs2/1ygoG0gaCJz2\nIDqMfJp3j7vgNR/as5rQ0lJQcuT8WNfs2BwYXt/BL8HwvCSzAMkZP0Ve9wKBgAIH\nLXJihwTsHgbYzMrc80RNayOKQWFRfpofLD0BQMLshXzWWF186A0WX+FTWoHiMwyA\nnqpWLpIbb5jzLMuPNjYBD2EdQLKMJyHE+LqL+dxU/EZhtQiKfxxIxDsBicIGUdXF\nApZyGAybrVjajK3dA7Sv0Z/zofy3F/Z4EVBmsBARAoGAMTIw7KOzuGQj8sKrQopq\nIsGmXfGnMmXIlg78ll4g6MHDxIrZwEgWFhTxiFGZMOHdAnmZ89jppRo3XNxXKhcW\nSzgM8U6PdcZ/lvAEIM304UtEZE0TKHDDLNq69L3wvw0tDxSMQDWvEVLN9G806/RN\njkBTABr39DJ1SB6Jw+wGQoc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "keylogic-bucket-access@double-willow-332106.iam.gserviceaccount.com",
+  "client_id": "103823414311941613672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/keylogic-bucket-access%40double-willow-332106.iam.gserviceaccount.com"
+}
